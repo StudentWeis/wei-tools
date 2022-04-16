@@ -1,0 +1,1 @@
+ffmpeg -i $args[0] -i $args[1] -map 1 -map 0 -c copy -disposition:0 attached_pic $args[2]
