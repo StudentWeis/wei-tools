@@ -1,0 +1,1 @@
+pwsh %homepath%\wei-tools\snipaste_auto.ps1

@@ -1,1 +1,0 @@
-pwsh C:\Users\lenovo\wei-tools\snipaste_auto.ps1
