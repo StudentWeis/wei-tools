@@ -1,1 +1,0 @@
-pwsh %homepath%\wei-tools\syncthing_start.ps1
